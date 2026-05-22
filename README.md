@@ -1,3 +1,9 @@
+Employee Management System (EMS) is a desktop-based GUI application designed to streamline HR tasks in small to mid-sized
+organizations. It provides easy-to-use CRUD operations (Create, Read, Update, Delete) for managing employee records. Admins can
+add, update, and delete employee data, while employees (end-users) can securely update their personal information and share
+necessary details with HR. The system simplifies record-keeping, improves data accuracy, and enhances collaboration between
+administrators and staff
+<div align="left"><b>Tools & Libraries:</b> Java, Java Swing, MySQL, NetBeans</div>
 <div align="center">Frontpage (Home Page)</div>
 <img width="947" height="392" alt="image" src="https://github.com/user-attachments/assets/269771cf-580e-453e-85cd-28ecc79c35d7" />
 <div align="center">Login To Admin</div>
